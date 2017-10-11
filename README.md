@@ -1,3 +1,3 @@
 # CISC210Game
 
-Write a user story about the game.
+As a player, I want to make my fireballs colorful
